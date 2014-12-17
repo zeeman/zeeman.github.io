@@ -1,0 +1,23 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+section {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 730px;
+    }
+}
+
+dd.time-period {
+    font-weight: normal;
+    font-style: italic;
+}
+
+#education dd {
+    padding-left: 40px;
+}
