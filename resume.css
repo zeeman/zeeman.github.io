@@ -13,6 +13,10 @@ section {
     }
 }
 
+#resume-header {
+    margin-top: 20px;
+}
+
 dd.time-period {
     font-weight: normal;
     font-style: italic;
